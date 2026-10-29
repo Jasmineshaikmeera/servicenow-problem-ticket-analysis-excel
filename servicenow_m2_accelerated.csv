@@ -1,0 +1,31 @@
+Row Labels,Count of Problem Ticket,,,Count of Problem Ticket,Column Labels,,,,,,Count of Problem Ticket,Column Labels,,,,,
+Awaiting Info,311,,,Row Labels,Critical,High,Low,Medium,Grand Total,,Row Labels,Awaiting Info,Closed,In Progress,Open,Resolved,Grand Total
+Closed,200,,,Backup & Recovery,57,108,78,169,412,,Critical,34,27,84,95,61,301
+In Progress,554,,,CMDB Team,70,118,93,197,478,,High,81,46,146,113,110,496
+Open,534,,,Database Operations,74,109,75,170,428,,Low,62,43,108,110,73,396
+Resolved,401,,,Infrastructure,35,56,62,87,240,,Medium,134,84,216,216,157,807
+Grand Total,2000,,,Network Operations,35,57,42,77,211,,Grand Total,311,200,554,534,401,2000
+,,,,Server Management,30,48,46,107,231,,,,,,,,
+,,,,Grand Total,301,496,396,807,2000,,,,,,,,
+Row Labels,Count of Problem Ticket,,,,,,,,,,,,,,,,
+Critical,301,,,,,,,,,,,,,,,,
+High,496,,,,,,,,,,,,,,,,
+Low,396,,,Row Labels,Count of Problem Ticket,,,,,,,,,,,,
+Medium,807,,,Resource allocation for web proxy requires optimization,78,,,,,,,,,,,,
+Grand Total,2000,,,Resource allocation for network monitoring requires optimization,75,,,,,,,,,,,,
+,,,,Resource allocation for application gateway requires optimization,73,,,,,,,,,,,,
+Row Labels,Count of Problem Ticket,,,Resource allocation for Active Directory requires optimization,71,,,,,,,,,,,,
+Active,1399,,,Resource allocation for disaster recovery requires optimization,70,,,,,,,,,,,,
+Completed,601,,,Resource allocation for backup verification requires optimization,70,,,,,,,,,,,,
+Grand Total,2000,,,Resource allocation for database replication requires optimization,70,,,,,,,,,,,,
+,,,,Resource allocation for patch management requires optimization,68,,,,,,,,,,,,
+,,,,Resource allocation for configuration management requires optimization,67,,,,,,,,,,,,
+,,,,Resource allocation for SAN storage requires optimization,65,,,,,,,,,,,,
+,,,,Grand Total,707,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Row Labels,Count of Problem Ticket,,Row Labels,Count of Problem Ticket,,,,,,,,,,,,,
+7,49,,0-15,328,,,,,,,,,,,,,
+8,675,,16-30,354,,,,,,,,,,,,,
+9,656,,31-60,655,,,,,,,,,,,,,
+10,620,,61-90,663,,,,,,,,,,,,,
+Grand Total,2000,,Grand Total,2000,,,,,,,,,,,,,
